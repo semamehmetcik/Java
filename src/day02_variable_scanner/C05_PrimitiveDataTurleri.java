@@ -12,7 +12,7 @@ public class C05_PrimitiveDataTurleri {
         char ilkHarf = 'A';
         char karakter1 = '*';
         char karakter2 = ' '; // bosluk da bir karakterdir
-        //char karakter3 = ''; // iki tek tirnak arasinda MUTLAKA tek karakter olmalidir
+        //char karakter3 = ''; // ik n i tek tirnak arasinda MUTLAKA tek karakter olmalidir
         char karakter4 = '5';
         // char karakter5 = 'ali'; // // iki tek tirnak arasinda SADECE tek karakter olmalidir
 
