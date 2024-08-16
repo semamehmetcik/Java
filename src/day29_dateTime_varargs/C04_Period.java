@@ -10,7 +10,7 @@ public class C04_Period {
         // 12 mart 2005'de dogan birisi bugun kac yasindadir
 
         LocalDate bugun = LocalDate.now();
-        LocalDate dogumGunu = LocalDate.of(2005,3,12);
+        LocalDate dogumGunu = LocalDate.of(1992,11,8);
 
         Period yas = Period.between(dogumGunu,bugun);
 
